@@ -2,7 +2,7 @@
 
 Submitted by: **Cristobal Elizarraraz**
 
-**Name of your app** is an app that shows the images people upload to the app, each image uploaded shows the user who posted it, the location the image was taken, a caption under the image, and the date the image was posted
+**BeRealDupe** is an app that shows the images people upload to the app, each image uploaded shows the user who posted it, the location the image was taken, a caption under the image, and the date the image was posted
 
 Time spent: **6** hours spent in total
 
